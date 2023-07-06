@@ -3,10 +3,10 @@ export default {
         secret: ')(/&%$webintegral$#&/%'
     },
     database: {
-        host: '127.0.0.1',
-        port: 3306,
-        user: 'root',
-        password: 'root',
-        database: 'web_integral'
+        host: 'db-web-integral-do-user-8918757-0.b.db.ondigitalocean.com',
+        port: 25060,
+        user: 'doadmin',
+        password: 'AVNS_oIzxZOJQUiYVfXqyrib',
+        database: 'defaultdb'
     }
 }
