@@ -6,7 +6,7 @@ import bodyParser from 'body-parser';
 import usuarioRoutes from './routes/usuarioRoutes';
 
 /*
-* Clase Server que define una aplicación express
+* Clase Server que define una aplicación express,
 */
 class Server {
   public app: Application;
